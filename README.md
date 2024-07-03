@@ -1,8 +1,8 @@
 # Codes for "Concurrent deterministic and probabilistic day-ahead forecasting of wind power generation and ramp rate with convolutional neural networks."
 
   ## Dataset
-  We used publicly available data from ERCOT for the training and test data on wind power generation and ramp rate. The dataset contains the hourly aggregated wind and solar power output for ERCOT from 2020 to 2023.
-  For additional information, see https://www.ercot.com/mp/data-  products/data-product-details?id=PG7-126-M.
+  We used publicly available data from ERCOT for the training and test data on wind power generation and ramp rate. The dataset contains the hourly aggregated wind and solar power output for ERCOT from 2020 to 2023 and is included as the .csv files.
+  For additional information, see https://www.ercot.com/mp/data-products/data-product-details?id=PG7-126-M.
   
   ## Codes
   Numbers in the .ipynb files represent the order of the proposed forecasting algorithms. You can skip files #1 and #2 by using the .h5 files and directly go to File #3.
